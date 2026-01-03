@@ -1,12 +1,12 @@
 # AI-Threat-Modeling-Agricultural-System-PEAT
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 Conduct a threat modeling assessment of an AI-powered crop monitoring system to identify potential security, integrity, and privacy risks. The project evaluates how AI models handling crop and soil data could be impacted by attacks such as data poisoning, adversarial inputs, model theft, and denial of service, and recommends mitigations to enhance system resilience and secure sensitive agricultural data.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+
 
 - Analyzing AI system workflows and identifying potential risks
 - Understanding AI-specific threats like data poisoning and adversarial inputs
@@ -16,7 +16,7 @@ Conduct a threat modeling assessment of an AI-powered crop monitoring system to 
 - Applying structured threat modeling frameworks (STRIDE / ATT&CK concepts)
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - AI Crop Monitoring Systems (PEAT) – Studied AI-powered plant disease detection systems to understand potential security risks and threat vectors.
 - Diagramming / Documentation Tools – For creating visual threat models and reporting findings in Draw io.
